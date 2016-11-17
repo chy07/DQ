@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Donking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logindq">东启PDA</string>
+    <string name="in">入库上架</string>
+    <string name="out">出库拣货</string>
+</resources>
